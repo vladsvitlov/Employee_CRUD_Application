@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>(Updated)Demo_CRUD_Application</name>
+	<comment></comment>
+	<projects>
+		<project>jakarta.activation-api-1.2.1</project>
+		<project>jstl-1.2</project>
+		<project>txw2-2.3.2</project>
+		<project>jakarta.xml.bind-api-2.3.2</project>
+		<project>jaxb-runtime-2.3.2</project>
+		<project>istack-commons-runtime-3.0.8</project>
+		<project>FastInfoset-1.2.16</project>
+		<project>postgresql-9.1-901-1.jdbc4</project>
+		<project>stax-ex-1.8.1</project>
+		<project>spring-web-5.2.7.RELEASE</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+</projectDescription>
